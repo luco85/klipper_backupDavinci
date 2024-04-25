@@ -1,0 +1,4 @@
+[gcode_macro test_corner_fsx]
+gcode:
+ SET
+ G1 X
